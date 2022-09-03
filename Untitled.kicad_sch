@@ -928,7 +928,7 @@
     (property "Value" "100n" (id 1) (at 100.33 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (id 2) (at 107.6452 95.25 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (id 2) (at 107.6452 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 106.68 91.44 0)
@@ -1120,7 +1120,7 @@
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
     (path "/566517f2-959a-4b71-80c3-b27c8262c664"
-      (reference "C1") (unit 1) (value "100n") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
+      (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
     )
     (path "/2d2eced5-bd5f-418b-9cda-232e5080fe2b"
       (reference "C2") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
